@@ -1,5 +1,5 @@
 '''
-PyPower Projects
+Preethi K M
 Emotion Detection Using AI
 '''
 
